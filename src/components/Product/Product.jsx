@@ -16,7 +16,7 @@ const Product = ({ product, img, title, price, updateQuantity, cart, money }) =>
         <div className="product-container">
             <div className="product-info">
                 <div className="img-container">
-                    <img src={`../../assets/img/${img}`} alt={title} />
+                    <img src={`/img/${img}`} alt={title} />
                 </div>
                 <h2 className="product-name">{title}</h2>
                 <h3 className="price-text">{formatPrice(price)}</h3>
