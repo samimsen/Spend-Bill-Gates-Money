@@ -1,4 +1,4 @@
-# React Spend Bill Gates' Money App
+# React Spend Bill Gates' Money App [Canlı Link](https://spend-bill-gates-money-samimsen.netlify.app/)
 
 Bu proje, **React** ile geliştirilmiş bir alışveriş sepeti uygulamasıdır. Kullanıcılar ürünleri sepete ekleyebilir, adetlerini değiştirebilir ve sahip oldukları parayı yönetebilir. Para, ürün alım veya satım işlemlerinde **animasyonlu bir şekilde** güncellenir, böylece gerçekçi bir kullanıcı deneyimi sunar. Masaüstü görünüm için tasarlanmış olup responsive eklenmemiştir.
 
