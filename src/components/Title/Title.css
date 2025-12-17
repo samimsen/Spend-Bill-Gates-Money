@@ -1,0 +1,15 @@
+.title-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 50px;
+    gap: 10px;
+    font-size: 1.5rem;
+}
+
+.title-pic {
+    border-radius: 50%;
+}

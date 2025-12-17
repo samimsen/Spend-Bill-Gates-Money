@@ -1,0 +1,58 @@
+.cart-container {
+    width: 100%;
+    background-color: white;
+    color: black;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.receipt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.receipt-item {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+    gap: 50px;
+}
+
+.item-title {
+    text-align: start;
+}
+
+.total-price {
+    text-align: start;
+    color: #22C28A;
+    font-weight: bold;
+}
+
+.item-quantity {
+    text-align: start;
+}
+
+hr {
+    width: 80%;
+}
+
+.total {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.total-receipt {
+    color: #22C28A;
+    font-weight: bold;
+}
